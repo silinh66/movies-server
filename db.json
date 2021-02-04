@@ -1,0 +1,178 @@
+{
+  "movies": [
+    {
+      "type": "NORMAL",
+      "id": "3",
+      "name": "The Matrix",
+      "releaseYear": "1999"
+    },
+    {
+      "type": "NORMAL",
+      "id": "4",
+      "name": "Inception",
+      "releaseYear": "2010"
+    },
+    {
+      "type": "NORMAL",
+      "id": "6",
+      "name": "Avengers: Endgame",
+      "releaseYear": "2019"
+    },
+    {
+      "type": "NORMAL",
+      "id": "7",
+      "name": "Avengers: Infinity War",
+      "releaseYear": "2018"
+    },
+    {
+      "type": "NORMAL",
+      "id": "9",
+      "name": "The Land Girls",
+      "releaseYear": "1998"
+    },
+    {
+      "type": "NORMAL",
+      "id": "10",
+      "name": "First Love, Last Rites",
+      "releaseYear": "1998"
+    },
+    {
+      "type": "NORMAL",
+      "id": "12",
+      "name": "Decription",
+      "releaseYear": "2010"
+    },
+    {
+      "type": "NORMAL",
+      "id": "13",
+      "name": "Let's Talk About Sex",
+      "releaseYear": "1998"
+    },
+    {
+      "type": "NORMAL",
+      "id": "15",
+      "name": "Mississippi Mermaid",
+      "releaseYear": "1999"
+    },
+    {
+      "type": "NORMAL",
+      "id": "16",
+      "name": "Foolish",
+      "releaseYear": "1999"
+    },
+    {
+      "id": "17",
+      "type": "NORMAL",
+      "name": "Satar Wars",
+      "releaseYear": "1977"
+    },
+    {
+      "id": "18",
+      "type": "NORMAL",
+      "name": "Baack to the Future",
+      "releaseYear": "1985"
+    },
+    {
+      "type": "NORMAL",
+      "id": "19",
+      "name": "Thea Matrix",
+      "releaseYear": "1999"
+    },
+    {
+      "type": "NORMAL",
+      "id": "20",
+      "name": "Inaception",
+      "releaseYear": "2010"
+    },
+    {
+      "type": "NORMAL",
+      "id": "21",
+      "name": "Inaterstellar",
+      "releaseYear": "2014"
+    },
+    {
+      "type": "NORMAL",
+      "id": "22",
+      "name": "Avaengers: Endgame",
+      "releaseYear": "2019"
+    },
+    {
+      "type": "NORMAL",
+      "id": "23",
+      "name": "Avengers: Infainity War",
+      "releaseYear": "2018"
+    },
+    {
+      "type": "NORMAL",
+      "id": "24",
+      "name": "Black Panather",
+      "releaseYear": "2018"
+    },
+    {
+      "type": "NORMAL",
+      "id": "25",
+      "name": "Thea Land Girls",
+      "releaseYear": "1998"
+    },
+    {
+      "type": "NORMAL",
+      "id": "26",
+      "name": "Fiarst Love, Last Rites",
+      "releaseYear": "1998"
+    },
+    {
+      "type": "NORMAL",
+      "id": "27",
+      "name": "Ia Marrie a Person",
+      "releaseYear": "1998"
+    },
+    {
+      "type": "NORMAL",
+      "id": "28",
+      "name": "Daecription",
+      "releaseYear": "2010"
+    },
+    {
+      "type": "NORMAL",
+      "id": "29",
+      "name": "Leta's Talk About Sex",
+      "releaseYear": "1998"
+    },
+    {
+      "type": "NORMAL",
+      "id": "30",
+      "name": "Slaam",
+      "releaseYear": "1998"
+    },
+    {
+      "type": "NORMAL",
+      "id": "31",
+      "name": "Miassissippi Mermaid",
+      "releaseYear": "1999"
+    },
+    {
+      "type": "NORMAL",
+      "id": "32",
+      "name": "Foolaish",
+      "releaseYear": "1999"
+    },
+    {
+      "type": "NORMAL",
+      "name": "Iron Man",
+      "releaseYear": "2018",
+      "id": "33"
+    },
+    {
+      "type": "NORMAL",
+      "id": 34,
+      "name": "Black",
+      "releaseYear": "2020"
+    },
+    {
+      "type": "NORMAL",
+      "id": 35,
+      "name": "Start War",
+      "releaseYear": "1977"
+    }
+  ]
+}
